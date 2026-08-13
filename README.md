@@ -58,8 +58,7 @@ Busco oportunidades de estágio onde eu possa aprender, contribuir e evoluir com
     title="sql" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align="postgresql" 
@@ -67,8 +66,7 @@ Busco oportunidades de estágio onde eu possa aprender, contribuir e evoluir com
     title="postgresql" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
 <img 
     align="spring" 
@@ -76,9 +74,7 @@ Busco oportunidades de estágio onde eu possa aprender, contribuir e evoluir com
     title="spring" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="aws" 
