@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Diógenes Focat
 
-**`Desenvolvedora FullStack`**
+**`Engenheiro de Software | Desenvolvedor | Analista de dados`**
 
 Me chamo Diógenes Focat de Almeida Duarte, tenho 41 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na FAETEC, com o curso técnico em Eletrotécnica. Atualmente, estou cursando Engenharia de Software na Estácio. Sou fascinado pela tecnologia, atualmente desenvolvo alguns projetos pessoais para estudar Engenharia de Software a partir da compreensão de problemas reais, aplicando conceitos de Java, SQL, PostgreSQL e modelagem de sistemas.
 
@@ -8,38 +8,6 @@ Acredito que tecnologia deve representar corretamente a realidade das organizaç
 
 Busco oportunidades de estágio onde eu possa aprender, contribuir e evoluir como engenheiro de software.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
