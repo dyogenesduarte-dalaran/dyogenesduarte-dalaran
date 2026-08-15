@@ -66,7 +66,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
       alt="LinkedIn de Diógenes Duarte"
       width="120"
-      style="background-color: #f2f2f2; padding: 10px; border-radius: 8px;"
     />
   </a>
 </p>
