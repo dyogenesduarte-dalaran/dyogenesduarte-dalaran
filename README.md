@@ -1,19 +1,24 @@
-# 👋 Olá mundo !!! Bem vindo ao meu Github.👩🏽‍💻
-
--Me chamo **Diógenes Focat de Almeida Duarte**🇧🇷, sou natural do Rio de Janeiro. Concluí o ensino médio na FAETEC, com o curso técnico em Eletrotécnica. Atualmente, estou cursando Engenharia de Software na Estácio. Sou fascinado pela tecnologia, atualmente desenvolvo alguns projetos pessoais para estudar Engenharia de Software a partir da compreensão de problemas reais, aplicando conceitos de Java, SQL, PostgreSQL e modelagem de sistemas.
-
-Acredito que tecnologia deve representar corretamente a realidade das organizações, fornecendo informações confiáveis para apoiar decisões.
-
-Busco oportunidades de estágio onde eu possa aprender, contribuir e evoluir como engenheiro de software.
+# 🌐 Olá mundo 🌐 ❗️❗️❗️ 
+# Bem vindo ao meu Github.<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="70"> 
 
 
-## About Me
-- Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
-- Tech Lead at [@Itau](https://github.com/itau)
 
-## 🤖 My Techs
+#### </> Diógenes Focat | </> Engenheiro de Software | </> JAVA | </> SPRING | </> SQL | 
+
+## 🚀 About Me
+➤ Meu nome é **Diógenes Focat de Almeida Duarte**. Sou estudante de **Engenharia de Software na Estácio**, técnico em **Eletrotécnica** e apaixonado por transformar problemas reais em soluções tecnológicas.
+
+➤ Atualmente, desenvolvo projetos pessoais para fortalecer minha formação prática em Engenharia de Software, aplicando conhecimentos de **Java, SQL, PostgreSQL, modelagem de dados e modelagem de sistemas**. Durante esse processo, busco compreender o contexto de cada problema, organizar suas necessidades e desenvolver soluções eficientes, confiáveis e alinhadas aos objetivos do negócio.
+
+➤ Acredito que desenvolver software vai além de escrever código. É necessário compreender a realidade da organização, estruturar informações com clareza e criar sistemas capazes de apoiar processos e decisões. Essa visão orienta meus estudos e projetos, sempre com foco em qualidade, aprendizado contínuo e evolução técnica.
+
+➤ Busco uma oportunidade de estágio em que possa contribuir com dedicação, raciocínio lógico e vontade de aprender, enquanto desenvolvo minhas competências ao lado de profissionais experientes. Quero iniciar minha carreira em um ambiente que valorize a colaboração, o crescimento profissional e a construção de soluções que gerem impacto real.
+ 
+--- 
+
+# 🤖 My Techs
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="70">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
@@ -56,8 +61,6 @@ Busco oportunidades de estágio onde eu possa aprender, contribuir e evoluir com
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
 
 
 
