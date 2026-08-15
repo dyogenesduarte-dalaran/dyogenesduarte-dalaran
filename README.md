@@ -1,26 +1,31 @@
-# 🌐 Olá mundo 🌐 ❗️❗️❗️ 
-# Bem vindo ao meu Github.<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="70"> 
+<img width="4096" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/8703631d-2a60-4038-9b48-c70573954f5d" />
 
-
-
-#### </> Diógenes Focat | </> Engenheiro de Software | </> JAVA | </> SPRING | </> SQL | 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f172a,100:2563eb&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=35&fontColor=60a5fa&animation=fadeIn"
+    alt="Bem-vindo ao meu GitHub"
+  />
+</p>
 
 ## 🚀 About Me
-➤ Meu nome é **Diógenes Focat de Almeida Duarte**. Sou estudante de **Engenharia de Software na Estácio**, técnico em **Eletrotécnica** e apaixonado por transformar problemas reais em soluções tecnológicas.
 
-➤ Atualmente, desenvolvo projetos pessoais para fortalecer minha formação prática em Engenharia de Software, aplicando conhecimentos de **Java, SQL, PostgreSQL, modelagem de dados e modelagem de sistemas**. Durante esse processo, busco compreender o contexto de cada problema, organizar suas necessidades e desenvolver soluções eficientes, confiáveis e alinhadas aos objetivos do negócio.
+➤  Meu nome é **Diógenes Focat de Almeida Duarte**. Sou estudante de **Engenharia de Software na Estácio**, técnico em **Eletrotécnica** e apaixonado por transformar problemas reais em soluções tecnológicas.
 
-➤ Acredito que desenvolver software vai além de escrever código. É necessário compreender a realidade da organização, estruturar informações com clareza e criar sistemas capazes de apoiar processos e decisões. Essa visão orienta meus estudos e projetos, sempre com foco em qualidade, aprendizado contínuo e evolução técnica.
+➤  Atualmente, desenvolvo projetos pessoais para fortalecer minha formação prática em Engenharia de Software, aplicando conhecimentos de **Java, SQL, PostgreSQL, modelagem de dados e modelagem de sistemas**. Durante esse processo, busco compreender o contexto de cada problema, organizar suas necessidades e desenvolver soluções eficientes, confiáveis e alinhadas aos objetivos do negócio.
 
-➤ Busco uma oportunidade de estágio em que possa contribuir com dedicação, raciocínio lógico e vontade de aprender, enquanto desenvolvo minhas competências ao lado de profissionais experientes. Quero iniciar minha carreira em um ambiente que valorize a colaboração, o crescimento profissional e a construção de soluções que gerem impacto real.
+➤  Acredito que desenvolver software vai além de escrever código. É necessário compreender a realidade da organização, estruturar informações com clareza e criar sistemas capazes de apoiar processos e decisões. Essa visão orienta meus estudos e projetos, sempre com foco em qualidade, aprendizado contínuo e evolução técnica.
+
+➤  Busco uma oportunidade de estágio em que possa contribuir com dedicação, raciocínio lógico e vontade de aprender, enquanto desenvolvo minhas competências ao lado de profissionais experientes. Quero iniciar minha carreira em um ambiente que valorize a colaboração, o crescimento profissional e a construção de soluções que gerem impacto real.
  
 --- 
 
-# 🤖 My Techs
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="70">
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="12" />
+<div align="center">
+# <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="450">
+</div>
+
+## 🤖 My Techs
+<div align="center">
+  <img width="48" height="48" alt="icons8-logo-java-coffee-cup" src="https://github.com/user-attachments/assets/5246f5a9-c56c-47b1-967a-f1fbbae6d49f" />
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
@@ -34,34 +39,37 @@
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img width="48" height="48" alt="icons8-mongodb-48" src="https://github.com/user-attachments/assets/3ea9c4cd-0082-47a7-8192-e3ad6f693540" />
+  <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/0be433ef-90d6-427b-815c-8c34ea1a84c6" />
+  <img width="48" height="48" alt="icons8-php-48" src="https://github.com/user-attachments/assets/e8b9dc55-d0fc-4397-b52b-11e33b2d2714" />
+
 </div>
 
-## My Stats
+---
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunograna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunograna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunograna&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
 
-###
+## <img width="100" height="70" alt="icons8-código-70" src="https://github.com/user-attachments/assets/2ef75de9-62fd-497f-a8c4-eba9c1c6b23c" /> Portifólio 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/dev-brunogarcia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+
+> Em contrução
+
+
+<p align="left">
+  <a
+    href="https://www.linkedin.com/in/di%C3%B3genes-duarte-510467115/?skipRedirect=true"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+      alt="LinkedIn de Diógenes Duarte"
+      width="120"
+      style="background-color: #f2f2f2; padding: 10px; border-radius: 8px;"
+    />
   </a>
-  <a href="https://www.youtube.com/@buildrun-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/buildrun.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
+</p>
 
 
 <!--
