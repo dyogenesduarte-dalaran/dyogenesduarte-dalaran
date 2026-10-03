@@ -1,92 +1,57 @@
 <img width="100%" alt="Diógenes Duarte — Dados, Banco de Dados e Backend; SQL, PostgreSQL, Modelagem de Dados, Java e Spring Boot" src="assets/banner-diogenes.jpg" />
 
+## Sobre mim
+
+Sou **Diógenes Duarte**, estudante de **Engenharia de Software na Estácio** e técnico em Eletrotécnica, em transição de carreira para **Dados, Banco de Dados e Backend**.
+
+Minha experiência com logística e estoque de peças automotivas me aproximou de problemas reais de consulta, organização e confiabilidade das informações. Hoje, desenvolvo projetos para transformar essas necessidades em bancos de dados, análises e aplicações.
+
+Busco minha primeira oportunidade de **estágio ou júnior**, com foco em **SQL, PostgreSQL e Dados**, incluindo Backend Java/Spring Boot com forte atuação em banco de dados.
+
+## Minhas tecnologias
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f172a,100:2563eb&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=35&fontColor=60a5fa&animation=fadeIn"
-    alt="Bem-vindo ao meu GitHub"
-  />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" title="Spring Boot" />
 </p>
 
-## 🚀 About Me
+<p align="center"><strong>SQL · PostgreSQL · Modelagem de Dados · Java · Spring Boot</strong></p>
 
-➤  Meu nome é **Diógenes Focat de Almeida Duarte**. Sou estudante de **Engenharia de Software na Estácio**, técnico em **Eletrotécnica** e apaixonado por transformar problemas reais em soluções tecnológicas.
+- **Dados e Banco de Dados:** SQL, PostgreSQL, modelagem relacional e análise de indicadores.
+- **Análise e BI:** Metabase, interpretação de resultados e documentação das limitações.
+- **Backend:** Java e Spring Boot como complemento à minha formação em dados.
 
-➤  Atualmente, desenvolvo projetos pessoais para fortalecer minha formação prática em Engenharia de Software, aplicando conhecimentos de **Java, SQL, PostgreSQL, modelagem de dados e modelagem de sistemas**. Durante esse processo, busco compreender o contexto de cada problema, organizar suas necessidades e desenvolver soluções eficientes, confiáveis e alinhadas aos objetivos do negócio.
+### Ferramentas de apoio
 
-➤  Acredito que desenvolver software vai além de escrever código. É necessário compreender a realidade da organização, estruturar informações com clareza e criar sistemas capazes de apoiar processos e decisões. Essa visão orienta meus estudos e projetos, sempre com foco em qualidade, aprendizado contínuo e evolução técnica.
-
-➤  Busco uma oportunidade de estágio em que possa contribuir com dedicação, raciocínio lógico e vontade de aprender, enquanto desenvolvo minhas competências ao lado de profissionais experientes. Quero iniciar minha carreira em um ambiente que valorize a colaboração, o crescimento profissional e a construção de soluções que gerem impacto real.
- 
---- 
-
-<div align="center">
-# <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="450">
-</div>
-
-## 🤖 My Techs
-<div align="center">
-  <img width="48" height="48" alt="icons8-logo-java-coffee-cup" src="https://github.com/user-attachments/assets/5246f5a9-c56c-47b1-967a-f1fbbae6d49f" />
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="48" height="48" alt="icons8-mongodb-48" src="https://github.com/user-attachments/assets/3ea9c4cd-0082-47a7-8192-e3ad6f693540" />
-  <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/0be433ef-90d6-427b-815c-8c34ea1a84c6" />
-  <img width="48" height="48" alt="icons8-php-48" src="https://github.com/user-attachments/assets/e8b9dc55-d0fc-4397-b52b-11e33b2d2714" />
-
-</div>
-
----
-
-
-
-## <img width="100" height="70" alt="icons8-código-70" src="https://github.com/user-attachments/assets/2ef75de9-62fd-497f-a8c4-eba9c1c6b23c" /> Portifólio 
-
-
-
-> Em contrução
-
-
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/di%C3%B3genes-duarte-510467115/?skipRedirect=true"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
-      alt="LinkedIn de Diógenes Duarte"
-      width="120"
-    />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
 </p>
 
+<p align="center">Git · GitHub · Docker · Flyway</p>
 
-<!--
-**brunograna/brunograna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos em destaque
 
-Here are some ideas to get you started:
+### [Healing — Sales Intelligence](https://github.com/dyogenesduarte-dalaran/projeto-Healing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Análise de vendas de um e-commerce fictício, com **PostgreSQL, SQL e Metabase**. Reúne modelagem, dados sintéticos, indicadores de vendas, Curva ABC e comparação de pedidos com e sem um produto estratégico.
 
+O foco é conectar perguntas de negócio às consultas e interpretar os resultados respeitando as limitações da base.
 
+### [PWS Smart Solutions](https://github.com/dyogenesduarte-dalaran/PWS---Smart-Solutions)
 
+Projeto pessoal voltado à consulta de estoque automotivo, motivado por dificuldades reais que observo no trabalho. É um espaço de aprendizado sobre organização de dados e desenvolvimento de soluções para facilitar o acesso à informação.
 
+## Minha forma de aprender
 
+Parto do problema de negócio, modelo os dados, construo consultas e documento o que os resultados permitem concluir. Também mantenho exercícios de Java para fortalecer meus fundamentos de programação.
+
+## Contato
+
+**Brasília — DF** · [LinkedIn](https://www.linkedin.com/in/di%C3%B3genes-duarte-510467115/)
