@@ -1,4 +1,4 @@
-<img width="4096" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/8703631d-2a60-4038-9b48-c70573954f5d" />
+<img width="100%" alt="Diógenes Duarte — Dados, Banco de Dados e Backend; SQL, PostgreSQL, Modelagem de Dados, Java e Spring Boot" src="assets/banner-diogenes.jpg" />
 
 <p align="center">
   <img
