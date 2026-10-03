@@ -36,17 +36,34 @@ Busco minha primeira oportunidade de **estágio ou júnior**, com foco em **SQL,
 
 <p align="center">Git · GitHub · Docker · Flyway</p>
 
-## Projetos em destaque
+## Projeto principal: Healing — Sales Intelligence
 
-### [Healing — Sales Intelligence](https://github.com/dyogenesduarte-dalaran/projeto-Healing)
+### [Análise de vendas de um e-commerce com PostgreSQL, SQL e Metabase](https://github.com/dyogenesduarte-dalaran/projeto-Healing)
 
-Análise de vendas de um e-commerce fictício, com **PostgreSQL, SQL e Metabase**. Reúne modelagem, dados sintéticos, indicadores de vendas, Curva ABC e comparação de pedidos com e sem um produto estratégico.
+O **Healing** é meu principal projeto de portfólio em **Dados e Banco de Dados**. Parte de um problema de negócio: transformar registros de vendas em respostas sobre faturamento, concentração de receita, cancelamentos e comportamento de compra.
 
-O foco é conectar perguntas de negócio às consultas e interpretar os resultados respeitando as limitações da base.
+**O que desenvolvi:**
+
+- Modelagem relacional de clientes, produtos, pedidos, itens e pagamentos.
+- Banco PostgreSQL com migrations Flyway e uma base sintética de aproximadamente **2.000 clientes, 500 produtos e 12.000 pedidos**.
+- Análises SQL de faturamento, ticket médio, canais de venda, clientes e produtos.
+- **Curva ABC** para investigar a concentração da receita.
+- **Dashboard no Metabase** para apresentar indicadores e apoiar a interpretação dos resultados.
+- Comparação de pedidos com e sem o **Produto X — Smartwatch Pulse X**.
+
+**Um aprendizado central:** na base analisada, os pedidos com Produto X apresentaram ticket médio aproximadamente **5,9% menor**. A presença de um produto relevante não implica aumento do valor médio da cesta. Essa comparação descreve uma associação, sem comprovar causalidade.
+
+> Os dados são sintéticos e os resultados representam um exercício de análise, não o desempenho de uma empresa real. As limitações estão documentadas no projeto.
+
+**Tecnologias:** PostgreSQL · SQL · Metabase · Flyway · Docker · Java/Spring Boot como camada complementar.
+
+[**Explorar o Healing, o dashboard e as análises →**](https://github.com/dyogenesduarte-dalaran/projeto-Healing)
+
+## Projeto complementar
 
 ### [PWS Smart Solutions](https://github.com/dyogenesduarte-dalaran/PWS---Smart-Solutions)
 
-Projeto pessoal voltado à consulta de estoque automotivo, motivado por dificuldades reais que observo no trabalho. É um espaço de aprendizado sobre organização de dados e desenvolvimento de soluções para facilitar o acesso à informação.
+Projeto pessoal voltado à consulta de estoque automotivo, motivado por dificuldades reais que observo no trabalho. Complementa minha formação com organização de dados e desenvolvimento de soluções para facilitar o acesso à informação.
 
 ## Minha forma de aprender
 
